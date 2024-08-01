@@ -170,6 +170,7 @@ set(models
 	solo
 	standard_vtol
 	standard_vtol_drop
+	standard_vtol_rplidar
 	tailsitter
 	techpod
 	tiltrotor
